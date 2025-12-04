@@ -9,7 +9,7 @@ Supports password resets, unlocking, disabling, credential testing, automatic do
 
 ---
 
-## 🔧 Features
+## Features
 
 - Remote AD management via WinRM (supports HTTP/HTTPS)
 - Encrypted admin credential storage (DPAPI)
@@ -29,7 +29,7 @@ Supports password resets, unlocking, disabling, credential testing, automatic do
 
 ---
 
-## 🚀 Quick Usage
+##  Quick Usage
 
 ### **1. Prepare files**
 Place the script in a folder. It will auto-create:
@@ -59,7 +59,7 @@ Each line:
 ### **3. Run the script**
 
 ```powershell
-.\Reset-Password-v3I.ps1
+.\Reset-Password-v3.ps1
 ```
 
 You will:
@@ -77,7 +77,7 @@ All operations are logged automatically.
 
 ---
 
-## 📁 Logs
+## Logs
 
 Audit entries are stored in:
 
@@ -93,7 +93,7 @@ timestamp | adminUser | server | targetUser | action | status | details
 
 ---
 
-## 📬 Author
+## Author
 
 Created by **Sofron Vasile Stelian**  
 
