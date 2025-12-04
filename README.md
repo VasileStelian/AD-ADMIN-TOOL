@@ -11,8 +11,7 @@ This tool has been developed and tested in a lab environment:
 - ⚠️ Not yet deployed in production environment
 
 **Use at your own risk. Always test in a non-production environment first.**
-```
-```
+
 🔧 New Project: Active Directory Admin Tool (PowerShell)
 
 Built a PowerShell automation tool for AD user management:
